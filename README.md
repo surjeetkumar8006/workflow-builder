@@ -15,16 +15,7 @@
 
 <br/>
 
-## 👨🏻‍💻 Developer's Talk
-Developed by <a href="https://github.com/debrajhyper">Debraj Karmakar</a>
-<span style="display:inline-flex; justify-content:space-evenly; width:20%;">
-<a href="https://twitter.com/debraj_010">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="20px"/>
-</a>
-<a href="https://www.linkedin.com/in/debrajkarmakar010/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20px"/>
-</a>
-</span>
+
 
 >Just wrapped up <a href="https://wbuilder.vercel.app/">Workflow Builder</a>, a React& Redux advance project. A compact journey with big learnings. From UI design to workflow canvas state management, faced challenges that shaped my skills as a front-end dev.
 
@@ -113,29 +104,3 @@ Developed by <a href="https://github.com/debrajhyper">Debraj Karmakar</a>
 11. [✅] Code runs with eslint enabled.
 12. [✅] Error messages is proper along with fallback UI where there are no data.
 13. [✅] Runtime UI crashes are not allowed, even if it happens anyhow, It should have a fallback UI  with a gradient background and error message texts upon it which should be clearly readable.
-
-<br/>
-
-## 🏃🏻‍♂️ Run Locally
-
-Clone the project
-```
-  $git clone https://github.com/debrajhyper/workflow-builder.git
-```
-
-Go to the project directory
-```
-  cd workflow-builder
-```
-
-Install dependencies
-```
-  $npm install
-```
-
-Start the dev server
-```
-  $npm run dev
-```
-
-<br/>
